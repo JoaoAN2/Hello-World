@@ -3,6 +3,7 @@
     font-size: 16px;
     color: white;
     background-color: black;
+    text-align: center;
 }
 
 body{
@@ -10,9 +11,9 @@ body{
 }
 
 main{
-    background-color: #4b4b4b;
+    background-color: #b49b9b;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+    box-shadow: 3px 3px 5px rgba(184, 184, 184, 0.5);
 }
